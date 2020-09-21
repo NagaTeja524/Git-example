@@ -5,7 +5,7 @@ import java.util.Currency;
 import java.util.Date;
 
 public class BillPojo {
-
+                                        //for testing git
 	private BigDecimal amount;
 	private Currency currency;
 	private Date date;
